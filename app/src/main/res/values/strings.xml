@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Movie and TV Show</string>
+    <string name="tv_show_image">TV Show Image</string>
+    <string name="movie_image">Movie Image</string>
+    <string name="overview">Overview</string>
+    <string name="genre">Genre</string>
+    <string name="status">Status</string>
+    <string name="release_date">Release Date</string>
+    <string name="movie">Movie</string>
+    <string name="tv_show">TV Show</string>
+    <string name="change_languange_setting">Change Languange Setting</string>
+    <string name="production_companies">Production Companies</string>
+    <string name="favorite">Favorite</string>
+    <string name="add_to_favorite">Add To Favorite</string>
+    <string name="delete">Delete</string>
+    <string name="empty_data">No data available</string>
+    <string name="success_add_favorite">Successfully add to favorite</string>
+    <string name="failed__add_favorite">Failed add to favorite</string>
+    <string name="success_delete_favorite">Successfully remove from favorite</string>
+    <string name="failed__delete_favorite">Failed remove from favorite</string>
+    <string name="favorite_is_exist">You have added this item to favorite</string>
+
+</resources>

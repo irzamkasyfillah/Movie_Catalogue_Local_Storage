@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Film dan Acara TV</string>
+    <string name="tv_show_image">Gambar Acara TV</string>
+    <string name="movie_image">Gambar Film</string>
+    <string name="overview">Deskripsi</string>
+    <string name="genre">Genre</string>
+    <string name="status">Status</string>
+    <string name="release_date">Tanggal Rilis</string>
+    <string name="movie">Film</string>
+    <string name="tv_show">Acara TV </string>
+    <string name="change_languange_setting">Ubah Pengaturan Bahasa</string>
+    <string name="production_companies">Perusahaan Produksi</string>
+    <string name="favorite">Favorit</string>
+    <string name="add_to_favorite">Tambah ke favorit</string>
+    <string name="delete">Hapus</string>
+    <string name="empty_data">Belum ada data</string>
+    <string name="success_add_favorite">Berhasil tambah ke favorit</string>
+    <string name="failed__add_favorite">Gagal tambah ke favorite</string>
+    <string name="success_delete_favorite">Berhasil hapus dari favorit</string>
+    <string name="failed__delete_favorite">Gagal hapus dari favorit</string>
+    <string name="favorite_is_exist">Data ini sudah anda tambahkan ke daftar favorit</string>
+</resources>
